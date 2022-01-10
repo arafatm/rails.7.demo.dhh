@@ -57,6 +57,8 @@ brew services start postgresql
 
 You can view json api with `localhost:3000/posts.json`. See the `format.html` vs `format.json` in `posts_controller.rb`
 
+###### :boat: [validates_presence_of](https://github.com/arafatm/rails.7.demo.dhh/commit/a1b5a8f)
+
 xxx
 
 
