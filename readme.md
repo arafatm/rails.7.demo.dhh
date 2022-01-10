@@ -1,5 +1,7 @@
 [Rails 7: The Demo - YouTube](https://www.youtube.com/watch?v=mpWFrUwAN88)
 
+## Setup 
+
 ### VSCode Setup
 
 Install the following extension:
@@ -38,6 +40,49 @@ brew install postgresql
 # To have launchd start postgresql at login:
 brew services start postgresql
 ```
+
+## Youtube
+
+### Scaffolding
+(0.00)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=0s]
+
+### Developing the Domain Model - Post
+(4.00)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=240s]
+
+### Built in console/repl
+(5.08)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=308s]
+
+### ActionText Rails' Rich Text Editor
+(6.15)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=375s]
+
+### Javascript Import Maps - no node or webpack .D
+(9.20)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=560s]
+
+### Adding JS packages using pins
+(10.25)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=625s]
+
+### Downloading JS packages instead of using CDN
+(12.50)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=770s]
+
+### Adding Comments to the Blog Post
+(13.40)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=820s]
+
+### Adding Comments to the Web UI
+(15.40)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=940s]
+
+### Adding Email Notifications with ActionMailer
+(20.40)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=1240s]
+
+### Live Updates via Websockets
+(24.20)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=1460s]
+
+### Testing
+(27.30)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=1650s]
+
+### Deploying to Heroku
+(29.15)[https://www.youtube.com/watch?v=mpWFrUwAN88&t=1775s]
+
+## Practice
 
 ###### :boat: [$ rails new .](https://github.com/arafatm/rails.7.demo.dhh/commit/88eced3)
 
