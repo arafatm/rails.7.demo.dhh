@@ -1,5 +1,24 @@
 [Rails 7: The Demo - YouTube](https://www.youtube.com/watch?v=mpWFrUwAN88)
 
+### VSCode Setup
+
+Install the following extension:
+- ruby
+- ruby solargraph
+- endwise
+- erb helper tags
+- rails db schema
+- ruby-rubocop
+
+Add the following to settings
+```
+"emmet.includeLanguages": {
+  "erb": "html"
+},
+```
+
+### Rails setup
+
 ```bash
 
 brew install rbenv ruby-build
