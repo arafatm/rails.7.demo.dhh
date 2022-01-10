@@ -20,5 +20,7 @@ brew install postgresql
 brew services start postgresql
 ```
 
+###### :boat: [$ rails new .](https://github.com/arafatm/rails.7.demo.dhh/commit/88eced3)
+
 xxx
 
