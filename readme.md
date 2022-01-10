@@ -22,6 +22,8 @@ brew services start postgresql
 
 ###### :boat: [$ rails new .](https://github.com/arafatm/rails.7.demo.dhh/commit/88eced3)
 
+###### :boat: [$ rails generate scaffold post title:string content:text](https://github.com/arafatm/rails.7.demo.dhh/commit/49d3f91)
+
 xxx
 
 
