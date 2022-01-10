@@ -34,6 +34,10 @@ brew services start postgresql
 `$ rails server` to view app
 - `http://127.0.0.1:3000/posts`
 
+###### :boat: [stylin with simplecss](https://github.com/arafatm/rails.7.demo.dhh/commit/25c7828)
+
+You can view json api with `localhost:3000/posts.json`. See the `format.html` vs `format.json` in `posts_controller.rb`
+
 xxx
 
 
