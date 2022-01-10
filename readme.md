@@ -28,6 +28,9 @@ brew services start postgresql
 - `app/controllers/posts_controller.rb`
 - `app/views/posts/*.erb`
 
+###### :boat: [$ rails db:migrate](https://github.com/arafatm/rails.7.demo.dhh/commit/a53195b)
+- `db/schema.rb` to see current DB state
+
 xxx
 
 
