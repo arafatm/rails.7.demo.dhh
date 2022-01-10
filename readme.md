@@ -2,4 +2,9 @@
 
 ###### :boat: [brew install rbenv ruby-build](https://github.com/arafatm/rails.7.demo.dhh/commit/1c11b88)
 
+###### :boat: [
+```bash
+brew install rbenv ruby-build
+```](https://github.com/arafatm/rails.7.demo.dhh/commit/66cf718)
+
 xxx
