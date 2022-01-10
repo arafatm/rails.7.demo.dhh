@@ -23,6 +23,10 @@ brew services start postgresql
 ###### :boat: [$ rails new .](https://github.com/arafatm/rails.7.demo.dhh/commit/88eced3)
 
 ###### :boat: [$ rails generate scaffold post title:string content:text](https://github.com/arafatm/rails.7.demo.dhh/commit/49d3f91)
+- `db/migrate/20220110023747_create_posts.rb`
+- `app/models/post.rb`
+- `app/controllers/posts_controller.rb`
+- `app/views/posts/*.erb`
 
 xxx
 
