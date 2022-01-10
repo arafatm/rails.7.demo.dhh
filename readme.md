@@ -31,6 +31,9 @@ brew services start postgresql
 ###### :boat: [$ rails db:migrate](https://github.com/arafatm/rails.7.demo.dhh/commit/a53195b)
 - `db/schema.rb` to see current DB state
 
+`$ rails server` to view app
+- `http://127.0.0.1:3000/posts`
+
 xxx
 
 
