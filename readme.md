@@ -245,6 +245,9 @@ root "posts#index"
 ###### :boat: [$ rails new demo](https://github.com/arafatm/rails.7.demo.dhh/commit/92792b2)
 
 ###### :boat: [$ rails generate scaffold post title:string content:text](https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8)
-- generates migration https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8#diff-19bb1332c4dbbedb886ace81a246a896fb15f056b5fac81123df11824939b49b
+- [migration in `db/migrate/*_create_posts.rb`](https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8#diff-19bb1332c4dbbedb886ace81a246a896fb15f056b5fac81123df11824939b49b)
+- [controller in `app/controllers/post_controller.rb`](https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8#diff-51479c7c729c095de9feb4e1243edad66f03be533b7237e3bde2250444e3e794)
+- [model in `app/models/post.rb`](https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8#diff-dcca05c4c31044a1b7ecb9bf3b861a09a7815486193bac57786acfa2d29eb034)
+- [Views in `app/views/posts`](https://github.com/arafatm/rails.7.demo.dhh/tree/main/demo/app/views/posts)
 
 xxx
