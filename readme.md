@@ -242,6 +242,6 @@ root "posts#index"
 
 ## Code
 
-###### :boat: [`rails new demo`](https://github.com/arafatm/rails.7.demo.dhh/commit/92792b2)
+###### :boat: [$ rails new demo](https://github.com/arafatm/rails.7.demo.dhh/commit/92792b2)
 
 xxx
