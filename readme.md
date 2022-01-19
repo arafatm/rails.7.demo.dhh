@@ -245,5 +245,6 @@ root "posts#index"
 ###### :boat: [$ rails new demo](https://github.com/arafatm/rails.7.demo.dhh/commit/92792b2)
 
 ###### :boat: [$ rails generate scaffold post title:string content:text](https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8)
+- generates migration https://github.com/arafatm/rails.7.demo.dhh/commit/b7639a8#diff-19bb1332c4dbbedb886ace81a246a896fb15f056b5fac81123df11824939b49b
 
 xxx
