@@ -253,4 +253,8 @@ root "posts#index"
 
 ###### :boat: [$ rails db:migrate](https://github.com/arafatm/rails.7.demo.dhh/commit/bb44e8d)
 
+###### Go to `localhost:3000/posts` to view generated app
+
 xxx
+
+
