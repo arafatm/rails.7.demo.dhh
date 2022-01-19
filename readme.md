@@ -251,4 +251,6 @@ root "posts#index"
   - 7 default actions, each with a view template
 - [Views in `app/views/posts`](https://github.com/arafatm/rails.7.demo.dhh/tree/main/demo/app/views/posts)
 
+###### :boat: [$ rails db:migrate](https://github.com/arafatm/rails.7.demo.dhh/commit/bb44e8d)
+
 xxx
